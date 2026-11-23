@@ -130,6 +130,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Human benchmark](https://www.humanbenchmark.com/tests/memory)
 - [Lichess](https://lichess.org/)
 - [Online go](https://online-go.com/play)
+- [ReflexTimer](https://reflextimer.com/) - Browser reaction time, click speed and aim tests with local score history.
 - [The ai games](https://theaigames.com/)
 - [Thinking chess](https://www.bewitched.com/chess/)
 - [WarriorJS](https://warrior.js.org/)
